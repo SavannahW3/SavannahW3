@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, My name is Savannah (She/Her) 
+
+-I'm currently learning Software Development, as I have a fascination with modern technology and computers 
+
+-I'm currently working on a Full Stack Developer Course which I am excited about :smile:
+
+-I love cartoons, games and anything creative :sparkles: 
+
+-Ask me about music :speaker:
